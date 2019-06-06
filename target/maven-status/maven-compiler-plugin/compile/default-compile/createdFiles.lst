@@ -1,0 +1,4 @@
+com/demo/liquibase_spring_boot_starter/property/LiquibaseExtendedProperties.class
+com/demo/liquibase_spring_boot_starter/App.class
+com/demo/liquibase_spring_boot_starter/liquibase/SpringLiquibaseExtended.class
+com/demo/liquibase_spring_boot_starter/config/LiquibaseConfiguration.class

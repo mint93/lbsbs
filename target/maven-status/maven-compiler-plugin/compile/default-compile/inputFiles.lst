@@ -1,0 +1,4 @@
+/home/bartek/eclipse-workspace/liquibase-spring-boot-starter/liquibase-spring-boot-starter/src/main/java/com/demo/liquibase_spring_boot_starter/App.java
+/home/bartek/eclipse-workspace/liquibase-spring-boot-starter/liquibase-spring-boot-starter/src/main/java/com/demo/liquibase_spring_boot_starter/config/LiquibaseConfiguration.java
+/home/bartek/eclipse-workspace/liquibase-spring-boot-starter/liquibase-spring-boot-starter/src/main/java/com/demo/liquibase_spring_boot_starter/property/LiquibaseExtendedProperties.java
+/home/bartek/eclipse-workspace/liquibase-spring-boot-starter/liquibase-spring-boot-starter/src/main/java/com/demo/liquibase_spring_boot_starter/liquibase/SpringLiquibaseExtended.java
